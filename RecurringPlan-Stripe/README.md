@@ -1,2 +1,0 @@
-# RecurringPlan-Stripe
-RecurringPlain-Stripe
